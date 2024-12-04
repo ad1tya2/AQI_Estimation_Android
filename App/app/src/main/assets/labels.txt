@@ -1,0 +1,5 @@
+motorcycle
+autorickshaw
+car
+bus
+truck
